@@ -1,0 +1,12 @@
+.InfoBox {
+    text-align: center;
+}
+
+.cardCon {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    text-align: start;
+}
